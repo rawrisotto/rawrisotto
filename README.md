@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm from Singapore!
+- 🌱 I'm currently learning Web Development and hoping to find a career in that field
+- 👍 Feel free to browse my repositories and view my learning progress!
+
 <!--
 **rawrisotto/rawrisotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
